@@ -3,7 +3,7 @@ package dto
 import (
 	"errors"
 	"github.com/dgrijalva/jwt-go"
-	"github.com/dsych/banking-auth/domain"
+	"github.com/sychd/banking-auth/domain"
 )
 
 type RefreshTokenRequest struct {

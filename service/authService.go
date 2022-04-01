@@ -5,8 +5,8 @@ import (
 	"github.com/ashishjuyal/banking-lib/errs"
 	"github.com/ashishjuyal/banking-lib/logger"
 	"github.com/dgrijalva/jwt-go"
-	"github.com/dsych/banking-auth/domain"
-	"github.com/dsych/banking-auth/dto"
+	"github.com/sychd/banking-auth/domain"
+	"github.com/sychd/banking-auth/dto"
 )
 
 type AuthService interface {

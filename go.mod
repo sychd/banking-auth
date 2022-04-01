@@ -1,4 +1,4 @@
-module github.com/dsych/banking-auth
+module github.com/sychd/banking-auth
 
 go 1.17
 

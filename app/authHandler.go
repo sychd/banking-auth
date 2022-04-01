@@ -3,8 +3,8 @@ package app
 import (
 	"encoding/json"
 	"github.com/ashishjuyal/banking-lib/logger"
-	"github.com/dsych/banking-auth/dto"
-	"github.com/dsych/banking-auth/service"
+	"github.com/sychd/banking-auth/dto"
+	"github.com/sychd/banking-auth/service"
 	"net/http"
 )
 
